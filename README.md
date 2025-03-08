@@ -2,10 +2,10 @@
 ![Static Badge](https://img.shields.io/badge/Inteligencia-Artificial-crimson?style=flat-square)
 
 ### Revista IA
-![Visita mi revista IA 📚](https://www.linkedin.com/newsletters/7034943533186699264/)
+Visita mi revista IA https://www.linkedin.com/newsletters/7034943533186699264/
 
 ### Redes sociales
-![LinkedIn 🌐](https://www.linkedin.com/in/maalvarengam/)
+LinkedIn https://www.linkedin.com/in/maalvarengam/
 
 ### Acerca de mí
 Hola, soy Mario Alvarenga, un apasionado pionero en el estudio de nuevas tecnologías. Con experiencia en la gestión de proyectos de TI y liderazgo de equipos, me esfuerzo por mantener una comunicación efectiva y fluida. 💬
